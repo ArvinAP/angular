@@ -1,0 +1,10 @@
+.mat-toolbar{
+    background-color: aqua;
+    width: 100vw;
+    margin: 0;
+}
+
+.mat-toolbar span{
+    font-size: 25px;
+
+}
